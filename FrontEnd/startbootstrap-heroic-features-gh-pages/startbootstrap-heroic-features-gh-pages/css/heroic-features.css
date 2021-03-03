@@ -7,11 +7,21 @@ body {
   padding-top: 56px;
 }
 
-.jumbotron {
+#bgmenu1 {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-image: url(/FrontEnd/startbootstrap-heroic-features-gh-pages/startbootstrap-heroic-features-gh-pages/vendor/img/BGMenuSelecionarPErfil.jpg);
+}
+
+.jumbotronLogo {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-color: #ffffff;
+  background-color: #ffffff00;
   border-radius: 0.3rem;
+}
+
+.centerthings{
+  margin: 0 auto;
 }
 
 
