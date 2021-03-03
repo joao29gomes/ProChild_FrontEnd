@@ -14,4 +14,23 @@ body {
   border-radius: 0.3rem;
 }
 
+.gender-male {
+  position: absolute;
+width: 146px;
+height: 144px;
+left: 563px;
+top: 306px;
+
+border-radius: 90px;
+}
+.gender-female{
+  position: absolute;
+width: 146px;
+height: 144px;
+left: 731px;
+top: 306px;
+
+border-radius: 90px;
+}
+
 
