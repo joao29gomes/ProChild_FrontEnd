@@ -13,7 +13,12 @@ body {
   background-attachment: fixed;
   background-image: url(/FrontEnd/startbootstrap-heroic-features-gh-pages/startbootstrap-heroic-features-gh-pages/vendor/img/BGMenuSelecionarPErfil.jpg);
 }
-
+#bgmenu2 {
+  background-repeat: no-repeat;
+  background-size: 100%;
+  opacity: 0.4;
+  background-image: url(/FrontEnd/startbootstrap-heroic-features-gh-pages/startbootstrap-heroic-features-gh-pages/vendor/img/clouds_backgroud.jpg);
+}
 .jumbotronLogo {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
