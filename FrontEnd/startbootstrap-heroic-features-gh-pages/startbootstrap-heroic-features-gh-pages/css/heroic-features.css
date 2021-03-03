@@ -14,4 +14,18 @@ body {
   border-radius: 0.3rem;
 }
 
+.bemvindo
+{
+  border-radius: 10px;
+  background-color: #329ea8;
+}
+
+.textorosa{
+  color: #ed2668;
+  padding: 2px;
+}
+
+.textonormal{
+  padding: 2px;
+}
 
